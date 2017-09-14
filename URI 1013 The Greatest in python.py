@@ -1,0 +1,6 @@
+A,B,S = input().split()
+A = int(A)
+B = int(B)
+S =int(S)
+P=max(A,B,S)
+print(P,"eh o maior")
